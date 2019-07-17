@@ -1,4 +1,4 @@
-n= int(input())
+ra= int(input())
 
-for i in range(0,n):
+for j in range(0,ra):
     print("Hello")
